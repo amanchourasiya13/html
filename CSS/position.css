@@ -1,0 +1,21 @@
+div{
+    height: 100px;
+width: 100px;
+display:inline-block;
+}
+#one{
+    background-color: blue;
+}
+#two{
+    background-color: brown;
+    position:relative;
+    /* top:200px;
+    left:200px; */
+     position: absolute;
+    top: 5px;
+    position:fixed;
+    top:200px;  
+}
+#three{
+    background-color: blueviolet;
+}
